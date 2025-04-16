@@ -8,7 +8,10 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "engines": {
+  "node": "18.x"
+}
   },
   "dependencies": {
     "nuxt": "^3.16.2",
