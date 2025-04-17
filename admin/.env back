@@ -1,0 +1,22 @@
+
+# Server
+HOST=0.0.0.0
+PORT=1337
+
+# Secrets
+APP_KEYS=JfrkG6l0t4m1IJLFp5sQjw==,LMTKrukhHriO8Ny7IVv7Jw==,ddiYo5SAwCq57XuiaZCMPg==,E9CXWtpzJHzVTmoEjx0p9g==
+API_TOKEN_SALT=MNjL5EGDqgUPkTVLyF6Zhw==
+ADMIN_JWT_SECRET=Wxh/amg/1k+S+ZJYZrb2Dg==
+TRANSFER_TOKEN_SALT=22fNKyXd0880hgbmluTBaA==
+
+# Database
+DATABASE_URL=postgresql://postgres:sGRZHQGtakMfrBwOhZiSATczVHVGAFND@yamanote.proxy.rlwy.net:48228/railway
+DATABASE_CLIENT=postgres
+DATABASE_HOST=postgres.railway.internal
+DATABASE_PORT=5432
+DATABASE_NAME=railway
+DATABASE_USERNAME=postgres
+DATABASE_PASSWORD=sGRZHQGtakMfrBwOhZiSATczVHVGAFND
+DATABASE_SSL=false
+DATABASE_FILENAME=railway
+JWT_SECRET=gcRf2kFaUipMMre7Em6/lQ==
